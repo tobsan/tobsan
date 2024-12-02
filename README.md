@@ -1,4 +1,4 @@
-👋 Hi, I’m @tobsan, I work at @eub-sweden sometimes.
+👋 Hi, I’m @tobsan, I work at @eub-sweden.
 
 I like free software and Dance Dance Revolution. I usually write C code or something similar for small real-time systems or Linux for a living.
 
